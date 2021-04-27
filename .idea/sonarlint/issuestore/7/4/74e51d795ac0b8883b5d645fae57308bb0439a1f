@@ -1,0 +1,30 @@
+
+]
+java:S1192‹"FDefine a constant instead of duplicating this literal "1.0.0" 4 times.(ŸØº÷
+a	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(’èäéşÿÿÿÿ
+n
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(‡ëó­úÿÿÿÿ
+d
+java:S1192Ë"HDefine a constant instead of duplicating this literal "healthy" 3 times.( î¥çûÿÿÿÿ
+`
+java:S1192Ì"IDefine a constant instead of duplicating this literal "metadata" 5 times.(ŒÍú
+a	java:S112ç"FDefine and throw a dedicated exception instead of using a generic one.(î¿‘‚şÿÿÿÿ
+\	java:S112é"FDefine and throw a dedicated exception instead of using a generic one.(¬È¯
+c
+java:S1192Ê"GDefine a constant instead of duplicating this literal "weight" 3 times.(˜—²ğşÿÿÿÿ
+A
+java:S5411İ"*Use the primitive boolean expression here.(Ñ»æ×
+X	java:S107î"=Method has 11 parameters, which is greater than 7 authorized.(‡ëó­úÿÿÿÿ
+a	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(äİœ€şÿÿÿÿ
+a	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(Ö–¥€şÿÿÿÿ
+C
+java:S1604H"(Make this anonymous inner class a lambda(Ô·Ñúÿÿÿÿ
+]
+java:S1192ı"FDefine a constant instead of duplicating this literal "hosts" 3 times.(÷‚÷È
+A
+java:S5411è"*Use the primitive boolean expression here.(é°ì
+g
+java:S1192W"LDefine a constant instead of duplicating this literal "cacheMillis" 3 times.(‘ë®Àúÿÿÿÿ
+e
+java:S1192›"IDefine a constant instead of duplicating this literal "clusters" 4 times.(Š¥ÛÊşÿÿÿÿ
+`	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(Ç‹¢âøÿÿÿÿ

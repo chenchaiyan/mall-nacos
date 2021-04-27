@@ -1,0 +1,45 @@
+
+i
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÿ„™õ
+}
+java:S3457Ö"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(Ì£‚êýÿÿÿÿ
+:
+java:S2629ë"$Invoke method(s) only conditionally.(ÊÈê}
+Z
+java:S1155Å">Use isEmpty() to check whether the collection is empty or not.(Ö·í¬ûÿÿÿÿ
+-
+java:S2176$"Rename this class.(’ùº€þÿÿÿÿ
+D
+java:S1123›"(Add the missing @deprecated Javadoc tag.(Ù·îúÿÿÿÿ
+@
+java:S2629Ø"$Invoke method(s) only conditionally.(¥´ÉËýÿÿÿÿ
+Q
+java:S1133›"5Do not forget to remove this deprecated code someday.(Ù·îúÿÿÿÿ
+w
+java:S3457ë"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(ÊÈê}
+}
+java:S3457Ø"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(¥´ÉËýÿÿÿÿ
+F
+java:S1066¢"/Merge this if statement with the enclosing one.(„ØÊß
+@
+java:S2629Ö"$Invoke method(s) only conditionally.(Ì£‚êýÿÿÿÿ
+}
+java:S3457Ö"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(Ì£‚êýÿÿÿÿ
+i
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(×˜°î
+o
+java:S2975°"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ƒ¢‰€ÿÿÿÿÿ
+;
+java:S2629à"$Invoke method(s) only conditionally.(Ë éõ
+c
+java:S1128"MRemove this unused import 'org.apache.commons.lang3.builder.HashCodeBuilder'.(¦ß“™
+Z
+java:S1155é">Use isEmpty() to check whether the collection is empty or not.(ü‰¼¿üÿÿÿÿ
+x
+java:S3457à"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(Ë éõ
+Z
+java:S1155Þ">Use isEmpty() to check whether the collection is empty or not.(­åìÕþÿÿÿÿ
+f
+java:S1128"KRemove this unused import 'org.apache.commons.lang3.builder.EqualsBuilder'.(Ãê…šúÿÿÿÿ
+}
+java:S3457Ø"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(¥´ÉËýÿÿÿÿ

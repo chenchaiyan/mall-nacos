@@ -1,0 +1,37 @@
+
+u
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(•êÛ‡øÿÿÿÿ
+;
+java:S2629Ù"$Invoke method(s) only conditionally.(òù×¾
+A
+java:S5411 "*Use the primitive boolean expression here.(î¤ëĞ
+X
+java:S3457Â"AFormat specifiers should be used instead of string concatenation.(İ“¤ü
+F
+java:S5411›"*Use the primitive boolean expression here.(ôª–§ùÿÿÿÿ
+a	java:S112¡"FDefine and throw a dedicated exception instead of using a generic one.(¾º·÷øÿÿÿÿ
+ˆ
+java:S1130ˆ"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¼şàÌÿÿÿÿÿ
+o
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÑL
+]
+java:S3457ç"AFormat specifiers should be used instead of string concatenation.(áíÏÊüÿÿÿÿ
+u
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ÁäÕúÿÿÿÿ
+H
+java:S1135M"2Complete the task associated to this TODO comment.(ÎÉŸ¦
+Q
+java:S1141Ò"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+(
+java:S21765"Rename this class.(¢”×³
+;
+java:S2629ú"$Invoke method(s) only conditionally.(Û½›ö
+a	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(¼şàÌÿÿÿÿÿ
+x
+java:S3457ú"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(Û½›ö
+I
+java:S1068O"3Remove this unused "pushCacheMillis" private field.(ØŒÜÙ
+Q
+java:S4719Ô":Replace Charset.forName() call with StandardCharsets.UTF_8(ËÜò€
+a
+java:S2184F"FCast one of the operands of this multiplication operation to a "long".(’ÆÇ¬ÿÿÿÿÿ

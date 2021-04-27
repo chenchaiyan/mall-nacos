@@ -1,0 +1,31 @@
+
+]
+java:S2259ó"AA "NullPointerException" could be thrown; "fis" is nullable here.(ö•ÃÏûÿÿÿÿ
+`
+java:S1134Î"DTake the required action to fix the issue indicated by this comment.(ÔŞâüÿÿÿÿ
+E
+java:S2093{"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+c
+java:S2259ï"LA "NullPointerException" could be thrown; "configInfoBase" is nullable here.(ÿÓø¨
+’
+java:S1130q"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ñ—¯©şÿÿÿÿ
+m
+java:S1192¸"VDefine a constant instead of duplicating this literal "config data not exist" 3 times.(†¬º±
+W	java:S125µ"<This block of commented-out lines of code should be removed.(–Ä³èøÿÿÿÿ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(–Ä³èøÿÿÿÿ
+`
+java:S1134®"DTake the required action to fix the issue indicated by this comment.(ÔŞâüÿÿÿÿ
+Z
+java:S1134‰"DTake the required action to fix the issue indicated by this comment.(²„Æp
+?	java:S108¿")Either remove or fill this block of code.(”ı¾
+Y
+java:S2259ê"BA "NullPointerException" could be thrown; "file" is nullable here.(Ø®İü
+N
+java:S1135û"2Complete the task associated to this TODO comment.(àÔ‘Ïşÿÿÿÿ
+F
+java:S1066€"/Merge this if statement with the enclosing one.(–É±û
+F
+java:S1066"/Merge this if statement with the enclosing one.(Ä¿ƒù
+i
+java:S3776p"SRefactor this method to reduce its Cognitive Complexity from 107 to the 15 allowed.(À”¿Ç
+t	java:S135ª"YReduce the total number of break and continue statements in this loop to use at most one.(Öû“ôûÿÿÿÿ

@@ -1,0 +1,53 @@
+
+K
+java:S3740±"/Provide the parametrized type for this generic.(„Å‚øøÿÿÿÿ
+K
+java:S3740±"/Provide the parametrized type for this generic.(„Å‚øøÿÿÿÿ
+F
+java:S3740´"/Provide the parametrized type for this generic.(Œš€á
+K
+java:S3740Ù"/Provide the parametrized type for this generic.(«ïÓïûÿÿÿÿ
+K
+java:S3740ö"/Provide the parametrized type for this generic.(Öô¢ùÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(¾‰¼ˆøÿÿÿÿ
+b
+java:S1192‹"FDefine a constant instead of duplicating this literal "value" 3 times.(ó¿ışúÿÿÿÿ
+]
+java:S1192×"FDefine a constant instead of duplicating this literal "datum" 5 times.(ŠÉ
+b
+java:S1192V"GDefine a constant instead of duplicating this literal "UTF-8" 11 times.(«•¨®ıÿÿÿÿ
+`
+java:S1192‚"IDefine a constant instead of duplicating this literal "no-cache" 6 times.(ıÂö
+e
+java:S1192‚"NDefine a constant instead of duplicating this literal "Cache-Control" 6 times.(ıÂö
+d
+java:S1192"MDefine a constant instead of duplicating this literal "Content-Type" 6 times.(¶ÆˆÄ
+f
+java:S1192ƒ"ODefine a constant instead of duplicating this literal "Content-Encode" 6 times.(”†£Â
+r
+java:S1192"[Define a constant instead of duplicating this literal "application/json; charset=" 6 times.(¶ÆˆÄ
+`	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(´…ÿšıÿÿÿÿ
+`	java:S112w"FDefine and throw a dedicated exception instead of using a generic one.(åÑ»Ëıÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Òó¿çıÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ëèùõüÿÿÿÿ
+a	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(¬Ù’‘ùÿÿÿÿ
+\	java:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(ó–¨ª
+a	java:S112Ë"FDefine and throw a dedicated exception instead of using a generic one.(ÏŞÿ¤üÿÿÿÿ
+a	java:S112ë"FDefine and throw a dedicated exception instead of using a generic one.(¼½Å£úÿÿÿÿ
+‡
+java:S1130I"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(´…ÿšıÿÿÿÿ
+‡
+java:S1130w"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(åÑ»Ëıÿÿÿÿ
+P
+java:S4719…"9Replace charset name argument with StandardCharsets.UTF_8(ÅÒñ´
+u
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Å‚øøÿÿÿÿ
+ƒ
+java:S1130¼"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ó–¨ª
+P
+java:S4719Ñ"9Replace charset name argument with StandardCharsets.UTF_8(ÅÒñ´
+P
+java:S4719ñ"9Replace charset name argument with StandardCharsets.UTF_8(ÅÒñ´
+b
+java:S3252"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(ÏÌ”úÿÿÿÿ

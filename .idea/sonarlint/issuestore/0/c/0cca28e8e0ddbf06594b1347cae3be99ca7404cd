@@ -1,0 +1,58 @@
+
+O
+java:S1172ñ"2Remove this unused method parameter "namespaceId".(±ŠŞ8íÄ¼/
+o
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(±ŠŞ8íÄ¼/
+
+java:S3457Ú"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(¼Š²8íÄ¼/
+p
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(“–ış8¥€…¼/
+~
+java:S1104•"`Make serviceName2Checksum a static final constant or non-public and provide accessors if needed.(÷ÿÀâ8¥€…¼/
+R
+java:S2864¹"4Iterate over the "entrySet" instead of the "keySet".(«˜Ú¶8¥€…¼/
+W
+java:S2864·"4Iterate over the "entrySet" instead of the "keySet".(È†à¢úÿÿÿÿ8¥€…¼/
+{	java:S135ê"YReduce the total number of break and continue statements in this loop to use at most one.(‡×¢ÿÿÿÿÿ8¥€…¼/
+w
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷ÿÀâ8¥€…¼/
+h
+java:S3252ş"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(ÙÈÅ·ùÿÿÿÿ8íÄ¼/
+B
+java:S2629Ù"$Invoke method(s) only conditionally.(òù×¾8íÄ¼/
+t	java:S127ù"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8¥€…¼/
+\
+java:S1155Ñ">Use isEmpty() to check whether the collection is empty or not.(Ş…–Ö8¥€…¼/
+a
+java:S1155÷">Use isEmpty() to check whether the collection is empty or not.(Î‹¤Ôşÿÿÿÿ8íÄ¼/
+R
+java:S2864”"4Iterate over the "entrySet" instead of the "keySet".(‹šô¤8íÄ¼/
+M
+java:S3740º"/Provide the parametrized type for this generic.(–íÛı8íÄ¼/
+E
+java:S2189È""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8íÄ¼/
+s
+java:S1104”"WMake namespaceId a static final constant or non-public and provide accessors if needed.(ïÃØşÿÿÿÿ
+o
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(Ë“Ø8¥€…¼/
+v	java:S135™"YReduce the total number of break and continue statements in this loop to use at most one.(êï®8íÄ¼/
+R
+java:S2864æ"4Iterate over the "entrySet" instead of the "keySet".(«˜Ú¶8íÄ¼/
+R
+java:S2864Á"4Iterate over the "entrySet" instead of the "keySet".(«˜Ú¶8¥€…¼/
+R
+java:S2864‡"4Iterate over the "entrySet" instead of the "keySet".(«˜Ú¶8íÄ¼/
+h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ãøŞÒúÿÿÿÿ8íÄ¼/
+X
+java:S1141É"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8íÄ¼/
+v	java:S135ƒ"YReduce the total number of break and continue statements in this loop to use at most one.(êï®8¥€…¼/
+H
+java:S1181¢"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ8íÄ¼/
+B
+java:S2629»"$Invoke method(s) only conditionally.( ÖÕì8íÄ¼/
+v	java:S135»"YReduce the total number of break and continue statements in this loop to use at most one.(Àˆ®—8¥€…¼/
+R
+java:S2864ù"4Iterate over the "entrySet" instead of the "keySet".(«˜Ú¶8íÄ¼/
+G
+java:S2629¦"$Invoke method(s) only conditionally.(ÛÎıÃûÿÿÿÿ8¥€…¼/
+N	java:S899s":Do something with the "boolean" value returned by "offer".(ğ©ÈH

@@ -1,0 +1,34 @@
+
+a
+java:S1192¼"JDefine a constant instead of duplicating this literal "ephemeral" 3 times.(×¢¨Í
+e
+java:S1192½"IDefine a constant instead of duplicating this literal "metadata" 4 times.(²ïô—ùÿÿÿÿ
+e
+java:S1192ÿ"IDefine a constant instead of duplicating this literal "selector" 3 times.(ÀÎ®åüÿÿÿÿ
+\
+java:S2184¡"ECast one of the operands of this subtraction operation to a "double".(¯ÈŞÛ
+N
+java:S2629”"7Use the built-in formatting to construct this argument.(çË¨
+S
+java:S2629£"7Use the built-in formatting to construct this argument.(Â£„ışÿÿÿÿ
+a	java:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(ëÚ¡»ıÿÿÿÿ
+{
+java:S1488ø"_Immediately return this expression instead of assigning it to the temporary variable "headers".(÷í±³ûÿÿÿÿ
+B
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+A
+java:S1181¨"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+X
+java:S3457”"AFormat specifiers should be used instead of string concatenation.(çË¨
+]
+java:S3457£"AFormat specifiers should be used instead of string concatenation.(Â£„ışÿÿÿÿ
+w
+java:S3457²"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(èîË
+]
+java:S3457¿"AFormat specifiers should be used instead of string concatenation.(îïº²ıÿÿÿÿ
+Ÿ
+java:S1130ô"‡Remove the declaration of thrown exception 'com.alibaba.nacos.api.exception.NacosException', as it cannot be thrown from method's body.(ºøÖ¦
+¤
+java:S1130ş"‡Remove the declaration of thrown exception 'com.alibaba.nacos.api.exception.NacosException', as it cannot be thrown from method's body.(îŞóÍşÿÿÿÿ
+]
+java:S3457Û"AFormat specifiers should be used instead of string concatenation.(ÔÀ¢şÿÿÿÿ

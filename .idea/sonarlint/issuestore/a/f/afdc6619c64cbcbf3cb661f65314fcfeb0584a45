@@ -1,0 +1,9 @@
+
+N
+java:S1172Å"2Remove this unused method parameter "serviceName".(…ĞÎ’úÿÿÿÿ
+j
+java:S2975ã"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(×—
+œ
+java:S1186|"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤–‘şÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬Ó¿ÿ

@@ -1,0 +1,39 @@
+
+g
+java:S2095„"KUse try-with-resources or close this "SocketChannel" in a "finally" clause.(½çšÏúÿÿÿÿ
+S
+java:S2629ñ"7Use the built-in formatting to construct this argument.(Ôò¼·üÿÿÿÿ
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¥±¹ê
+>
+java:S2189 ""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+s	java:S135t"YReduce the total number of break and continue statements in this loop to use at most one.(İÂ¼¶üÿÿÿÿ
+T
+java:S1155—">Use isEmpty() to check whether the collection is empty or not.(¯Í¥6
+>
+java:S1604H"(Make this anonymous inner class a lambda(¸íóµ
+C
+java:S1604T"(Make this anonymous inner class a lambda(ÛÀõ“ıÿÿÿÿ
+f
+java:S1104»"OMake key a static final constant or non-public and provide accessors if needed.(íÍ°
+q
+java:S1104¼"UMake birthTime a static final constant or non-public and provide accessors if needed.(õ±ªíúÿÿÿÿ
+x
+java:S3008G"]Rename this field "TCP_CHECK_EXECUTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¬õÁüÿÿÿÿ
+r
+java:S3008R"WRename this field "NIO_EXECUTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¸ĞÒøÿÿÿÿ
+o
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(©´¹Á
+W
+java:S3457x"AFormat specifiers should be used instead of string concatenation.(åÈ½î
+W
+java:S3457~"AFormat specifiers should be used instead of string concatenation.(¢ê“
+A
+java:S1181°"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+?	java:S108ä")Either remove or fill this block of code.(ìŠÈ
+e
+java:S4201²"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ŒÎ³Ëúÿÿÿÿ
+?	java:S108×")Either remove or fill this block of code.(ìŠÈ
+?	java:S108Ş")Either remove or fill this block of code.(ìŠÈ
+]
+java:S3457ñ"AFormat specifiers should be used instead of string concatenation.(Ôò¼·üÿÿÿÿ
+?	java:S108")Either remove or fill this block of code.(ìŠÈ
